@@ -1,22 +1,30 @@
 ### siem
 
 #
-Sigma + Snort + Yara + MITRE ATT&CK:
-https://github.com/Neo23x0/sigma 
+Wazuh - The Open Source Security Platform:
 
+https://wazuh.com/community/join-us-on-slack/
+
+#
+Sigma + Snort + Yara + MITRE ATT&CK:
+
+https://github.com/Neo23x0/sigma 
 
 #
 ArcSight:
+
 https://t.me/ArcSightChat
 
 https://t.me/ArcsightRussia  
 
 #
 Logrythm:
+
 https://t.me/LogRhythmSIEM 
 
 #
 Threat Hunting:
+
 https://t.me/joinchat/JJEZUw2TyqkEX8dMB-sasA 
 
 #
@@ -47,6 +55,7 @@ https://t.me/CSOAR
 
 #
 Russian SIEM & SOC
+
 https://t.me/MPSIEMChat
 
 https://t.me/RuScadaSec
@@ -57,10 +66,12 @@ https://t.me/phd_soc
 
 #
 SIEM XPERT - Discussion Forum
+
 https://t.me/joinchat/DqzmQE65frnyLxAaY6Zi4Q 
 
 #
 Splunk:
+
 https://t.me/joinchat/GD3DIExgUkTBoTN62grHsg
 
 https://t.me/splunkprofessionals
@@ -73,4 +84,5 @@ https://t.me/splunk_kb
 
 #
 Incident Response Community:
+
 https://t.me/IncidentResponse
